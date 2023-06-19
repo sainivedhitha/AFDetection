@@ -1,2 +1,3 @@
 # AFDetection
-Detecting periods of AF using preprocessed ECG data by analysing R-R intervals
+
+Detecting periods of AF using preprocessed data of R-R intervals
